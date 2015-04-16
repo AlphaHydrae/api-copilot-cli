@@ -1,6 +1,6 @@
 # API Copilot CLI
 
-> Command line interface for [API Copilot](https://github.com/lotaris/api-copilot).
+> Command line interface for [API Copilot](https://github.com/AlphaHydrae/api-copilot).
 
 [![NPM Version](https://badge.fury.io/js/api-copilot-cli.png)](http://badge.fury.io/js/api-copilot-cli)
 
@@ -16,7 +16,7 @@ npm install -g api-copilot-cli
 
 ## Usage
 
-Run the `api-copilot` command in a project containing [API Copilot](https://github.com/lotaris/api-copilot) scenarios.
+Run the `api-copilot` command in a project containing [API Copilot](https://github.com/AlphaHydrae/api-copilot) scenarios.
 
 ## Contributing
 
